@@ -1,6 +1,6 @@
 # opencv-track-point
 
-Simple OpenCV project that tracks singe predefined point point on the mooving video.
+Simple OpenCV app that tracks a single predefined point on the moving video.
 
 ## Usage
 
